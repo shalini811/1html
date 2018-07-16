@@ -1,0 +1,164 @@
+.sha2 img{
+    height: 200px;
+    width: 940px;
+    margin-top: 125px;
+    margin-bottom: 0px;
+    background-position: relative;
+    border-radius: 5px;
+    
+  }
+    header{
+    overflow: hidden;
+    background-color: wheat;
+    border-radius: 2px;
+    top:0;
+    position: fixed;
+    margin:auto;
+    
+  }
+  .sha1{
+    float:left;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-bottom:10px;
+    font-size:22px;
+    font-family: "Merienda", sans-serif;
+    color:blueviolet;
+    text-align: center;
+  }
+  .sha0 img{
+      height: 127px;
+      width: 100%;
+      background-position: right;
+      float: left;
+  }
+  nav{
+    float: center;
+    font-family: "Merienda",sans-serif;
+    margin-top: 10px;
+    
+  }
+  nav li{
+    display: inline;
+    padding-left: 90px;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: right;
+  }
+  nav a{
+    text-decoration: none;
+    color: black;
+  }
+  nav a:hover{
+    color: blue;
+    text-decoration: underline;
+  }
+  nav li:last-child{
+    padding-right: 10px;
+  }
+  .sha4 img{
+    border-radius: 5px;
+     height: 250px;
+    width: 290px;
+  }
+  .sha4 section{
+    margin-top: 0px;
+    border: 3px solid lightpink;
+    padding: 3px;
+    background-color: skyblue;
+    border-radius: 5px;
+  }
+  #sha3{
+    font-size: 40px;
+    margin-top: 200px;
+    margin-bottom: 300px;
+    font-family: "Merienda", sans-serif;
+    color: white;
+
+  }
+  .text-block{
+    position: absolute;
+    font-family: "Merienda", sans-serif;
+    margin-left: 410px;
+    color: whitesmoke;
+    
+  
+  }
+   section h2{
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    letter-spacing: 2px;
+    margin-bottom: 3px;
+    margin-top: 5px;
+    color:brown;
+  }
+  section p{
+    font-size:20px;
+    font-weight: 500;
+    margin-top: 29px;
+    line-height: 1.8;
+    color:slateblue;
+    font-family: "Merienda",sans-serif;
+    text-align: justify;
+  }
+  .sha5{
+    overflow: hidden;
+  }
+  .sha5 h2{
+    color: brown;
+  }
+  .sha5 img{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height:400px;
+    width: 617px;
+    border-radius: 5px;
+    }
+  .sha6{
+    height: 500px;
+    margin-top: 70px;
+  }
+  .sha6 p,h3{
+      font-family: "Merienda",sans-serif;
+      font-size: 13px;
+      color:rgb(240, 135, 16);
+      text-align: center;
+  }
+  .sha6 section{
+    border: 2px solid burlywood;
+  }
+  
+  
+  footer{
+    clear:both;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    border-top: 1px solid #d1d1d1;
+    padding-top: 15px;
+    color: #6c0ceb;
+    font-family: "Merienda",sans-serif;
+  }
+  footer p{
+    float: left;
+    margin-left: 20px;
+  }
+  footer a{
+      float: right;
+    text-decoration: none;
+  }
+  .fa {
+      padding: 20px;
+      font-size: 30px;
+      width: 50px;
+      text-align: center;
+      text-decoration: none;
+  }
+  .fa-facebook {
+      background: #3B5998;
+      color: black;
+  }
+   .fa-youtube {
+      background: #BB0000;
+      color: black;
+  }
